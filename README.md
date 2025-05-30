@@ -6,7 +6,7 @@ A modern, feature-rich weather dashboard built with React.js, Vite, and @tanstac
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) _(Add your deployment URL here)_
+[View Live Demo](#) _(not test deployed)_
 
 ## ✨ Features
 
@@ -57,7 +57,7 @@ A modern, feature-rich weather dashboard built with React.js, Vite, and @tanstac
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-dashboard.git
+   git clone https://github.com/musavirchukkan/weather-dashboard.git
    cd weather-dashboard
    ```
 
@@ -76,7 +76,7 @@ A modern, feature-rich weather dashboard built with React.js, Vite, and @tanstac
    Update `.env` with your API keys:
 
    ```env
-   VITE_OPENWEATHER_API_KEY=5b07e7d840675637156218556b1051a5
+   VITE_OPENWEATHER_API_KEY=API_KEY
    VITE_OPENWEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
 
    # Optional - for authentication
@@ -243,8 +243,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Your Name**
 
 - Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- GitHub: [https://github.com/yourusername](https://github.com/musavirchukkan)
+- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/musavirchukkan/)
 
 ## 🙏 Acknowledgments
 
@@ -255,4 +255,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ and ☕ by [Your Name]
+Made with ❤️ and ☕ by [Musavir Chukkan](https://musavirchukkan.in)
