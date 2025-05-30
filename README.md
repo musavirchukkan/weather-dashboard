@@ -6,7 +6,7 @@ A modern, feature-rich weather dashboard built with React.js, Vite, and @tanstac
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) _(not test deployed)_
+[View Live Demo](#) _(not yet deployed)_
 
 ## ✨ Features
 
